@@ -16,7 +16,7 @@ export default function Home() {
           <p className="text-gray-600 text-lg max-w-xl">Discover luxury watches crafted with precision and passion. Designed by S&S for those who value timeless style.</p>
           <Link to="/collection" className="btn-primary inline-block">Explore Collection</Link>
         </motion.div>
-        <motion.img initial={{ opacity: 0, x: 40 }} animate={{ opacity: 1, x: 0 }} src="/public/Images/gemini-watch.png" alt="hero watch" className="w-[420px] rounded-2xl shadow-soft" />
+        <motion.img initial={{ opacity: 0, x: 40 }} animate={{ opacity: 1, x: 0 }} src="/images/gemini-watch.png" alt="hero watch" className="w-[420px] rounded-2xl shadow-soft" />
       </section>
 
       <section className="max-w-7xl mx-auto px-6 py-8">
