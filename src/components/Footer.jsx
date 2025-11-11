@@ -17,9 +17,11 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <h4 className="font-semibold text-white mb-2">Contact</h4>
-          <p className="text-sm opacity-90">support@s&sWatches.com</p>
-          <p className="text-sm opacity-90">+91-9337012814</p>
+          <h4 className="font-semibold text-white mb-2">Contact Us</h4>
+          <p className="text-sm opacity-90">support@S&SWatches.com</p>
+          <p className="text-sm opacity-90" >+91-9337012814</p>
+          <p className="text-sm opacity-90" >+91-9938640175</p>
+          <p className="text-sm opacity-90" >Bhubaneswar</p>
         </div>
       </div>
       <div className="text-center text-xs py-3 bg-black/40">© {new Date().getFullYear()} S&S Watch Company. All rights reserved.</div>

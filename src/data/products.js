@@ -6,7 +6,7 @@ const PRODUCTS = [
     price: 6499,
     rating: 4.7,
     year: 2024,
-    image: '/images/1.webp',
+    image: '/images/1733KM01_1.webp',
   },
   {
     id: 2,
@@ -51,7 +51,7 @@ const PRODUCTS = [
     price: 7199,
     rating: 4.4,
     year: 2024,
-    image: '/images/1733KM01_1.webp',
+    image: '/images/1805QM04_1.webp',
   },
   {
     id: 7,
