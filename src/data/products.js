@@ -33,7 +33,7 @@ const PRODUCTS = [
     price: 5999,
     rating: 4.5,
     year: 2022,
-    image: '/public/images/1885SL03_1.jpg',
+    image: '/images/1885SL03_1.jpg',
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const PRODUCTS = [
     price: 9299,
     rating: 4.8,
     year: 2025,
-    image: '/public/images/1688KM06_1.webp',
+    image: '/images/1688KM06_1.webp',
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const PRODUCTS = [
     price: 7199,
     rating: 4.4,
     year: 2024,
-    image: '/public/images/1733KM01_1.webp',
+    image: '/images/1733KM01_1.webp',
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ const PRODUCTS = [
     price: 8799,
     rating: 4.9,
     year: 2025,
-    image: '/public/images/1806QM03_1.webp',
+    image: '/images/1806QM03_1.webp',
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ const PRODUCTS = [
     price: 9999,
     rating: 4.8,
     year: 2024,
-    image: '/public/images/1824BM01_1.jpg',
+    image: '/images/1824BM01_1.jpg',
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ const PRODUCTS = [
     price: 6499,
     rating: 4.6,
     year: 2023,
-    image: '/public/images/1824BM03_1.webp',
+    image: '/images/1824BM03_1.webp',
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ const PRODUCTS = [
     price: 10599,
     rating: 4.9,
     year: 2025,
-    image: '/public/images/7.webp',
+    image: '/images/7.webp',
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ const PRODUCTS = [
     price: 8899,
     rating: 4.7,
     year: 2023,
-    image: '/public/images/1825KM02_1.webp',
+    image: '/images/1825KM02_1.webp',
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ const PRODUCTS = [
     price: 7599,
     rating: 4.5,
     year: 2022,
-    image: '/public/images/4.webp',
+    image: '/images/4.webp',
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ const PRODUCTS = [
     price: 6999,
     rating: 4.6,
     year: 2024,
-    image: '/public/images/10050SM01_1.webp',
+    image: '/images/10050SM01_1.webp',
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ const PRODUCTS = [
     price: 9499,
     rating: 4.8,
     year: 2025,
-    image: '/public/images/1824BM01_1.jpg',
+    image: '/images/1824BM01_1.jpg',
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ const PRODUCTS = [
     price: 7999,
     rating: 4.7,
     year: 2024,
-    image: '/public/images/1805QM04_1.webp',
+    image: '/images/1805QM04_1.webp',
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ const PRODUCTS = [
     price: 8699,
     rating: 4.8,
     year: 2023,
-    image: '/public/images/1825KM02_1.webp',
+    image: '/images/1825KM02_1.webp',
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ const PRODUCTS = [
     price: 9299,
     rating: 4.9,
     year: 2025,
-    image: '/public/images/1806KM01_1.webp',
+    image: '/images/1806KM01_1.webp',
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ const PRODUCTS = [
     price: 8899,
     rating: 4.6,
     year: 2024,
-    image: '/public/images/1830KL02_1.webp',
+    image: '/images/1830KL02_1.webp',
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ const PRODUCTS = [
     price: 11999,
     rating: 5.0,
     year: 2025,
-    image: '/public/images/8.webp',
+    image: '/images/8.webp',
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ const PRODUCTS = [
     price: 6999,
     rating: 4.5,
     year: 2022,
-    image: '/public/images/1824BM03_1.webp',
+    image: '/images/1824BM03_1.webp',
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ const PRODUCTS = [
     price: 8299,
     rating: 4.7,
     year: 2023,
-    image: '/public/images/1805NM01_1.webp',
+    image: '/images/1805NM01_1.webp',
   },
   {
     id: 22,
@@ -195,7 +195,7 @@ const PRODUCTS = [
     price: 9499,
     rating: 4.9,
     year: 2025,
-    image: '/public/images/90086KM02J_1.webp',
+    image: '/images/90086KM02J_1.webp',
   },
   {
     id: 23,
@@ -204,7 +204,7 @@ const PRODUCTS = [
     price: 7399,
     rating: 4.6,
     year: 2024,
-    image: '/public/images/3.webp',
+    image: '/images/3.webp',
   },
   {
     id: 24,
@@ -213,7 +213,7 @@ const PRODUCTS = [
     price: 9699,
     rating: 4.8,
     year: 2025,
-    image: '/public/images/4.webp',
+    image: '/images/4.webp',
   },
   {
     id: 25,
@@ -222,7 +222,7 @@ const PRODUCTS = [
     price: 8499,
     rating: 4.7,
     year: 2024,
-    image: '/public/images/5.webp',
+    image: '/images/5.webp',
   },
   {
     id: 26,
@@ -231,7 +231,7 @@ const PRODUCTS = [
     price: 7999,
     rating: 4.5,
     year: 2023,
-    image: '/public/images/6.webp',
+    image: '/images/6.webp',
   },
   {
     id: 27,
@@ -240,7 +240,7 @@ const PRODUCTS = [
     price: 8999,
     rating: 4.9,
     year: 2025,
-    image: '/public/images/7.webp',
+    image: '/images/7.webp',
   },
   {
     id: 28,
@@ -249,7 +249,7 @@ const PRODUCTS = [
     price: 8699,
     rating: 4.8,
     year: 2024,
-    image: '/public/images/8.webp',
+    image: '/images/8.webp',
   },
   {
     id: 29,
@@ -258,7 +258,7 @@ const PRODUCTS = [
     price: 7799,
     rating: 4.6,
     year: 2023,
-    image: '/public/images/1824BM03_1.webp',
+    image: '/images/1824BM03_1.webp',
   },
   {
     id: 30,
@@ -267,7 +267,7 @@ const PRODUCTS = [
     price: 9999,
     rating: 5.0,
     year: 2025,
-    image: '/public/images/10.webp',
+    image: '/images/10.webp',
   },
   {
     id: 31,
